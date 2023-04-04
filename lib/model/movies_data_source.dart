@@ -65,7 +65,7 @@ var movieList = [
       writer: "Hajime Isayama",
       genre: "Animation, Action, Adventure",
       sinopsys: "Humans are nearly exterminated by giant creatures called Titans. Titans are typically several stories tall, seem to have no intelligence, devour human beings and, worst of all, seem to do it for the pleasure rather than as a food source. A small percentage of humanity survived by walling themselves in a city protected by extremely high walls, even taller than the biggest of titans. Flash forward to the present and the city has not seen a titan in over 100 years. Teenage boy Eren and his foster sister Mikasa witness something horrific as the city walls are destroyed by a colossal titan that appears out of thin air. As the smaller titans flood the city, the two kids watch in horror as their mother is eaten alive. Eren vows that he will murder every single titan and take revenge for all of mankind.",
-      posterUrl: "https://i.pinimg.com/originals/a5/f9/8a/a5f98a7d9f22ecb3dcb7d9b736c47f90.jpg",
+      posterUrl: "https://upload.wikimedia.org/wikipedia/id/d/d6/Shingeki_no_Kyojin_manga_volume_1.jpg",
       stars: "Yûki Kaji, Marina Inoue, Yui Ishikawa",
       isMovie: false,
       sceneUrls: [
@@ -129,7 +129,7 @@ var movieList = [
       writer: "David Crane, Marta Kauffman",
       genre: "Comedy, Romance",
       sinopsys: "Ross Geller, Rachel Green, Monica Geller, Joey Tribbiani, Chandler Bing, and Phoebe Buffay are six 20 something year olds living in New York City. Over the course of 10 years, these friends go through family, love, drama, friendship, and comedy.",
-      posterUrl: "https://i.pinimg.com/originals/c6/ba/7d/c6ba7d6beb4dd12afdd8b2cde3270d5d.png",
+      posterUrl: "https://upload.wikimedia.org/wikipedia/sq/thumb/5/5f/Friends_ver4.jpg/250px-Friends_ver4.jpg",
       stars: "Jennifer Aniston, Courteney Cox, Lisa Kudrow",
       isMovie: false,
       sceneUrls: [
@@ -145,7 +145,7 @@ var movieList = [
       writer: "Bryan Woods (screenplay by), Scott Beck (screenplay by)",
       genre: "Drama, Horror, Sci-Fi",
       sinopsys: "Two parents do what it takes to keep their children safe in a world full of creatures hunting every sound they can hear. Not a sound can be heard from the family hiding in silence, but all it takes is one noise and everything can go wrong.",
-      posterUrl: "https://archeroracle.org/wp-content/uploads/2018/04/onesheet-599x900.jpg",
+      posterUrl: "https://upload.wikimedia.org/wikipedia/en/a/a0/A_Quiet_Place_film_poster.png",
       stars: "Emily Blunt, John Krasinski, Millicent Simmonds",
       isMovie: true,
       sceneUrls: [
@@ -257,7 +257,7 @@ var movieList = [
       writer:  "Christopher Nolan",
       genre:  "Action, Adventure, Sci-Fi",
       sinopsys:  "Dom Cobb is a skilled thief, the absolute best in the dangerous art of extraction, stealing valuable secrets from deep within the subconscious during the dream state, when the mind is at its most vulnerable. Cobb's rare ability has made him a coveted player in this treacherous new world of corporate espionage, but it has also made him an international fugitive and cost him everything he has ever loved. Now Cobb is being offered a chance at redemption. One last job could give him his life back but only if he can accomplish the impossible, inception. Instead of the perfect heist, Cobb and his team of specialists have to pull off the reverse: their task is not to steal an idea, but to plant one. If they succeed, it could be the perfect crime. But no amount of careful planning or expertise can prepare the team for the dangerous enemy that seems to predict their every move. An enemy that only Cobb could have seen coming.",
-      posterUrl:  "https://i.pinimg.com/originals/f0/0a/d1/f00ad1d69f2b6d3d916bab83b64b965b.jpg",
+      posterUrl:  "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg",
       stars: "Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",
       isMovie: true,
       sceneUrls: [
@@ -273,7 +273,7 @@ var movieList = [
       writer: "Timo Tjahjanto",
       genre: "Action, Thriller",
       sinopsys: "Ito, a gangland enforcer, caught amidst a treacherous and violent insurrection within his Triad crime family upon his return home from a stint abroad.",
-      posterUrl: "https://cdn.traileraddict.com/content/netflix/night-comes-for-us-poster.jpg",
+      posterUrl: "https://upload.wikimedia.org/wikipedia/en/6/65/The_Night_Comes_for_Us.png",
       stars: "Joe Taslim, Iko Uwais, Julie Estelle",
       isMovie: true,
       sceneUrls: [
@@ -289,7 +289,7 @@ var movieList = [
       writer: "Baran bo Odar, Jantje Friese",
       genre: "Crime, Drama, Mystery",
       sinopsys: "The first German production from the world's leading Internet TV Network is set in a German town in present day where the disappearance of two young children exposes the double lives and fractured relationships among four families. In ten hour-long episodes, the story takes on a surprising twist that ties back to the same town in 1986.",
-      posterUrl: "https://i.pinimg.com/originals/67/5e/bc/675ebc2fd210a8bd5362928a51514960.jpg",
+      posterUrl: "https://upload.wikimedia.org/wikipedia/en/d/da/DarkNetflixPosterEnglish.jpg",
       stars: "Louis Hofmann, Karoline Eichhorn, Lisa Vicari",
       isMovie: false,
       sceneUrls: [
@@ -321,7 +321,7 @@ var movieList = [
       writer: "Matt Duffer, Ross Duffer",
       genre: "Drama, Fantasy, Horror",
       sinopsys: "In a small town where everyone knows everyone, a peculiar incident starts a chain of events that leads to the disappearance of a child, which begins to tear at the fabric of an otherwise peaceful community. Dark government agencies and seemingly malevolent supernatural forces converge on the town, while a few of the locals begin to understand that there's more going on than meets the eye.",
-      posterUrl: "https://cdn.europosters.eu/image/750/posters/stranger-things-seasons-i132237.jpg",
+      posterUrl: "https://upload.wikimedia.org/wikipedia/id/b/b1/Stranger_Things_season_1.jpg",
       stars: "Millie Bobby Brown, Finn Wolfhard, Winona Ryder",
       isMovie: false,
       sceneUrls: [
