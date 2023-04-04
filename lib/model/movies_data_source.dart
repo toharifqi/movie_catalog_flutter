@@ -113,7 +113,7 @@ var movieList = [
       writer: "Jac Schaeffer",
       genre: "Action, Comedy, Drama",
       sinopsys: "Blends the style of classic sitcoms with the MCU in which Wanda Maximoff and Vision -two super-powered beings living their ideal suburban lives-begin to suspect that everything is not as it seems.",
-      posterUrl: "https://breaknlinks.s3.amazonaws.com/english/Jan7-Feb7/62339-m.jpg",
+      posterUrl: "https://flxt.tmsimg.com/assets/p19091632_b_v10_aa.jpg",
       stars: "Elizabeth Olsen, Paul Bettany, Kathryn Hahn",
       isMovie: false,
       sceneUrls: [
