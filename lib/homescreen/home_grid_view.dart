@@ -34,6 +34,7 @@ class MovieGridItem extends StatelessWidget {
     return InkWell(
       onTap: () {},
       child: Card(
+        color: Colors.white12,
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(12)
         ),
@@ -82,10 +83,16 @@ class MovieGridItem extends StatelessWidget {
                         movie.title,
                         style: const TextStyle(
                             fontWeight: FontWeight.bold,
+                            color: Colors.white70,
                             fontSize: 18
                         ),
                       ),
-                      Text(movie.genre)
+                      Text(
+                        movie.genre,
+                        style: const TextStyle(
+                            color: Colors.white60
+                        ),
+                      )
                     ],
                   ),
                 ),

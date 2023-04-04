@@ -29,6 +29,7 @@ class MovieListItem extends StatelessWidget {
       child: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 18, vertical: 6),
         child: Card(
+          color: Colors.white12,
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(8)
           ),
@@ -74,12 +75,14 @@ class MovieListItem extends StatelessWidget {
                       movie.title,
                       style: const TextStyle(
                         fontWeight: FontWeight.bold,
+                        color: Colors.white70
                       ),
                     ),
                     Text(
                       movie.genre,
                       style: const TextStyle(
-                          fontSize: 10
+                        fontSize: 10,
+                        color: Colors.white60
                       ),
                     )
                   ],

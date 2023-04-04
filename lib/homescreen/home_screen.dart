@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:movie_catalog_flutter/home_screen/home_grid_view.dart';
-import 'package:movie_catalog_flutter/model/movies_data_source.dart';
+import '../model/movies_data_source.dart';
+import 'home_grid_view.dart';
 import 'home_list_view.dart';
 
 class HomeScreen extends StatelessWidget {
@@ -10,6 +10,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     final movies = movieList;
     return Scaffold(
+      backgroundColor: Colors.black45,
       body: LayoutBuilder(
         builder: (BuildContext context, BoxConstraints constraints) {
           if (constraints.maxWidth <= 600) {

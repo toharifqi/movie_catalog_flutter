@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:movie_catalog_flutter/home_screen/home_screen.dart';
+import '../homescreen/home_screen.dart';
 
 class WelcomeScreen extends StatelessWidget {
   const WelcomeScreen({super.key});
@@ -7,6 +7,7 @@ class WelcomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Colors.black45,
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
@@ -21,14 +22,14 @@ class WelcomeScreen extends StatelessWidget {
               style: TextStyle(
                 fontWeight: FontWeight.bold,
                 fontSize: 32,
-                color: Colors.black87
+                color: Colors.white70
               ),
             ),
             const Text(
               "Welcome to movie catalog",
               style: TextStyle(
                   fontSize: 18,
-                  color: Colors.black54
+                  color: Colors.white60
               ),
             ),
             const SizedBox(height: 28),
