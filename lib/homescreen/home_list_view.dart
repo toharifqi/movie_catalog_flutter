@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:movie_catalog_flutter/detailscreen/detail_screen.dart';
 import '../model/movies_data_source.dart';
 import 'favorite_button.dart';
 
@@ -25,7 +26,12 @@ class MovieListItem extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return InkWell(
-      onTap: () {},
+      onTap: () {
+        Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => DetailScreen(movie: movie))
+        );
+      },
       child: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 18, vertical: 6),
         child: Card(

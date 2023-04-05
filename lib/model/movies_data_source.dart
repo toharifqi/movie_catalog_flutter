@@ -39,7 +39,7 @@ var movieList = [
       sceneUrls: [
         "https://lwlies.com/wp-content/uploads/2016/01/interstellar-review-768x539-c-default.jpg",
         "https://i.ytimg.com/vi/4Hf_XkgE1d0/maxresdefault.jpg",
-        "https://img1.looper.com/img/gallery/the-ending-of-interstellar-explained/intro-1562880872.jpg",
+        "https://www.layar.id/wp-content/uploads/2022/03/Interstellar.jpg",
       ]
   ),
   Movie(
@@ -98,7 +98,7 @@ var movieList = [
       genre: "Action, Adventure, Sci-Fi",
       sinopsys: "An alien race has hit the Earth in an unrelenting assault, unbeatable by any military unit in the world. Major William Cage (Cruise) is an officer who has never seen a day of combat when he is unceremoniously dropped into what amounts to a suicide mission. Killed within minutes, Cage now finds himself inexplicably thrown into a time loop-forcing him to live out the same brutal combat over and over, fighting and dying again...and again. But with each battle, Cage becomes able to engage the adversaries with increasing skill, alongside Special Forces warrior Rita Vrataski (Blunt). And, as Cage and Vrataski take the fight to the aliens, each repeated encounter gets them one step closer to defeating the enemy!",
       posterUrl: "https://s.isanook.com/mv/0/rp/r/w728/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL212LzAvdWQvNy8zNjM5Mi9lZGdlX29mX3RvbW9ycm93X3ZlcjQuanBn.jpg",
-      stars: "Christopher McQuarrie (screenplay by), Jez Butterworth (screenplay by)",
+      stars: "Tom Cruise, Emily Blunt",
       isMovie: true,
       sceneUrls: [
         "https://i.ytimg.com/vi/yUmSVcttXnI/maxresdefault.jpg",
@@ -279,7 +279,7 @@ var movieList = [
       sceneUrls: [
         "https://theactionelite.com/wp-content/uploads/2018/11/Julia-Estelle.jpg",
         "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cfb2f55b-26bf-4ee2-897f-2b2dcf456e6f/ddzg58n-c62995d9-06b0-428e-8150-21e59bdbd237.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvY2ZiMmY1NWItMjZiZi00ZWUyLTg5N2YtMmIyZGNmNDU2ZTZmXC9kZHpnNThuLWM2Mjk5NWQ5LTA2YjAtNDI4ZS04MTUwLTIxZTU5YmRiZDIzNy5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.VSOHvTUcmeOTvouqocWGLSHJec885Z7XymlhU0dOiBU",
-        "https://i.ytimg.com/vi/DjBurAmUBFk/hqdefault.jpg",
+        "https://img.jakpost.net/c/2018/10/10/2018_10_10_55960_1539170898.jpg",
       ]
   ),
   Movie(
@@ -295,7 +295,7 @@ var movieList = [
       sceneUrls: [
         "https://www.thewrap.com/wp-content/uploads/2020/06/netflix-dark-season-3-explained.jpg",
         "https://m.media-amazon.com/images/M/MV5BNjZjNjc3ZTItYjMxMi00YTcyLTkxYzAtZGRlZmJkMDQyYjMyXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
-        "https://i.ytimg.com/vi/BTW3GPGGM-M/maxresdefault.jpg",
+        "https://occ-0-1001-448.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABadIe75GQILby-MaK9YrLjTxgt7ZXaF88HDdOq049gZY5XOLQoXXnFE6uSNk_vRb9SwYPGonBx5zfnHLYkHTwfU00Vep5R3t0ZI7lS5ppMRPkMk_XKX18ocH.jpg?r=6c7",
       ]
   ),
   Movie(
@@ -341,7 +341,7 @@ var movieList = [
       stars: "Henry Cavill, Freya Allan, Yasen Atour",
       isMovie: false,
       sceneUrls: [
-        "https://img1.looper.com/img/gallery/the-witcher-scene-that-means-more-than-you-think/intro-1579035655.jpg",
+        "https://cdnx.kincir.com/insecure/rs:fit:764/aHR0cHM6Ly9raW5jaXJpbWFnZS5zMy1hcC1zb3V0aGVhc3QtMS5hbWF6b25hd3MuY29tL3Byb2R1Y3Rpb24vMjAxOS0xMi83NDB4NDM1XzE3NTJlYjkwYzM0MzVkYWI1MmExYjc3NWY1ZjQxNDkwZmU4ZDVmMDQuanBn",
         "https://www.bosshunting.com.au/wp-content/uploads/2020/03/maxresdefault-9.jpg",
         "https://www.geekgirlauthority.com/wp-content/uploads/2019/12/Witcher_102_Unit_02635_RT.f3uzyww8df-1200x640.jpg",
       ]

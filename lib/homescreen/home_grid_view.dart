@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import '../detailscreen/detail_screen.dart';
 import '../model/movies_data_source.dart';
 import 'favorite_button.dart';
 
@@ -32,7 +33,12 @@ class MovieGridItem extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return InkWell(
-      onTap: () {},
+      onTap: () {
+        Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => DetailScreen(movie: movie))
+        );
+      },
       child: Card(
         color: Colors.white12,
         shape: RoundedRectangleBorder(
