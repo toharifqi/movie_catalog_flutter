@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:movie_catalog_flutter/detailscreen/detail_screen_mobile.dart';
+import 'package:movie_catalog_flutter/detailscreen/detail_screen_web.dart';
 import '../model/movies_data_source.dart';
 
 class DetailScreen extends StatelessWidget {
@@ -14,7 +15,7 @@ class DetailScreen extends StatelessWidget {
         if (constraints.maxWidth <= 800) {
           return DetailScreenMobile(movie: movie);
         } else {
-          return Scaffold();
+          return DetailScreenWeb(movie: movie);
         }
       },
     );

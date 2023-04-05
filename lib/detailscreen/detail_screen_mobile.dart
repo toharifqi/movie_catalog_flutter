@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:movie_catalog_flutter/detailscreen/detail_text.dart';
 import '../homescreen/favorite_button.dart';
 import '../model/movies_data_source.dart';
 import 'detail_image_item.dart';
+import 'detail_text.dart';
 
 class DetailScreenMobile extends StatelessWidget {
   final Movie movie;
@@ -107,8 +107,8 @@ class DetailScreenMobile extends StatelessWidget {
                     ),
                   ),
                   const SizedBox(height: 4),
-                  DetailText(title: "Creator", description: movie.writer),
-                  DetailText(title: "Actors", description: movie.stars),
+                  DetailText(title: "Creator", description: movie.writer, fontSize: 12),
+                  DetailText(title: "Actors", description: movie.stars, fontSize: 12),
                   const SizedBox(height: 12),
                   SizedBox(
                     height: 150,

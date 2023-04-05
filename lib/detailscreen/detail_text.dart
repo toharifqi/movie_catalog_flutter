@@ -3,30 +3,33 @@ import 'package:flutter/material.dart';
 class DetailText extends StatelessWidget {
   final String title;
   final String description;
+  final double fontSize;
 
-  const DetailText({super.key, required this.title, required this.description});
+  const DetailText({super.key, required this.title, required this.description, required this.fontSize});
 
   @override
   Widget build(BuildContext context) {
-    return Row(
-      children: [
-        Text(
-          "$title: ",
-          style: const TextStyle(
-            color: Colors.white,
-            fontSize: 12,
-            fontWeight: FontWeight.bold,
+    return RichText(
+      text: TextSpan(
+        children: [
+          TextSpan(
+              text: "$title: ",
+              style: TextStyle(
+                color: Colors.white,
+                fontSize: fontSize,
+                fontWeight: FontWeight.bold,
+              ),
           ),
-        ),
-        Text(
-          description,
-          style: const TextStyle(
-            color: Colors.white,
-            fontSize: 12,
-            fontStyle: FontStyle.italic,
+          TextSpan(
+            text: description,
+            style: TextStyle(
+              color: Colors.white,
+              fontSize: fontSize,
+              fontStyle: FontStyle.italic,
+            ),
           ),
-        ),
-      ],
+        ]
+      ),
     );
   }
 
